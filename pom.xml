@@ -8,6 +8,7 @@
   <description>krypto</description>
   <modules>
     <module>krypto-security</module>
+    <module>krypto-dataaccess</module>
   </modules>
   
   <developers>
