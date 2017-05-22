@@ -1,4 +1,4 @@
-package org.krypto.dataaccess;
+package com.krypto.security;
 
 /**
  * Hello world!

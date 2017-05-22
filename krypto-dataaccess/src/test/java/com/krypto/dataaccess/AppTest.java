@@ -1,4 +1,4 @@
-package org.krypto.dataaccess;
+package com.krypto.dataaccess;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

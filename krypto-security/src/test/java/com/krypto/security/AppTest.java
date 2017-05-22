@@ -1,4 +1,4 @@
-package org.krypto.security;
+package com.krypto.security;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
